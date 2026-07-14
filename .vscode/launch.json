@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nerdyessence/Developer/github/codewithashley/library_system",
+      "program": "/Users/nerdyessence/Developer/github/codewithashley/library_system/build/Debug/outDebug"
+    }
+  ]
+}
